@@ -1,4 +1,4 @@
-# Discount Effectiveness Analysis
+# Retail Discount Impact Analysis
 
 ## Overview
 This project analyzes the effectiveness of discount strategies in a retail dataset by evaluating how different discount levels impact sales, profit, profit margins, and customer behavior. Discounts were categorized into levels, aggregated, and analyzed to identify profitable and unprofitable discount practices. Results were exported to Excel for further analysis and visualization.
@@ -56,11 +56,6 @@ This project analyzes the effectiveness of discount strategies in a retail datas
 - **Python (pandas, numpy, xlsxwriter)** – data cleaning, analysis, and Excel export  
 - **MS Excel** – reviewing and analyzing output data  
 - **Power BI** for visualization
-
-
-
-
-
 
 
 
